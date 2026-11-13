@@ -1,1 +1,1 @@
-# StudentManagement system
+# StudentManagement registration
