@@ -1,1 +1,1 @@
-# StudentManagement registration
+This project manages student registration and searching
